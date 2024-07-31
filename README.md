@@ -24,16 +24,32 @@ I'm a software developer with a passion for creating impactful solutions and a d
 ### 🌟 Skills
 
 **Languages & Frameworks**
-- JavaScript, React, HTML, CSS, SCSS
-- Node.js, Express.js, MySQL
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Methodologies**
-- Git, npm, Jira, Postman, Heroku
-- Agile Development, Object-Oriented Programming (OOP), Functional Programming (FP)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=for-the-badge&logo=agile&logoColor=white)
 
 **Others**
-- Multilingual: Fluent in English, French, Spanish, Portuguese
-- Cross-cultural communication and team collaboration
+
+![English](https://img.shields.io/badge/English-C1A7A7?style=for-the-badge&logo=language&logoColor=white)
+![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-FF0000?style=for-the-badge&logo=language&logoColor=white)
+![Portuguese](https://img.shields.io/badge/Portuguese-3A5EAB?style=for-the-badge&logo=language&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-00CC99?style=for-the-badge&logo=team&logoColor=white)
 
 ---
 
