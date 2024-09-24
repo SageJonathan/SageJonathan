@@ -15,9 +15,22 @@ I'm a software developer with a passion for creating impactful solutions and a d
 
 ### 🔭 Current Projects
 
-**[Avalanche AI](https://github.com/your-avalanche-ai-repo)**
-- A web application designed to streamline avalanche forecasting with AI-driven trend analysis and data aggregation.
-- Tech Stack: React, JavaScript, Sass, HTML, Node.js, Express.js, MySQL.
+# Solar Watch
+
+ By aggregating real-time data, Solar Watch helps users plan their outdoor activities more effectively, ensuring they make the most of optimal weather and sunlight conditions.
+
+## Features
+
+- **Real-time Weather Data:** Access up-to-date weather information, including temperature, humidity, and wind conditions.
+- **Solar Impact Insights:** Receive detailed information on sunrise and sunset times, solar angles, and day length to maximize your outdoor experiences.
+- **User-Friendly Interface:** An intuitive design that makes it easy for users to navigate and find the information they need.
+- **GPS Location Integration:** Users can access real-time solar and weather information based on their current GPS coordinates.
+- **Photography Planning Tools:** Ideal for photographers to plan shoots with optimal lighting conditions.
+
+## Tech Stack
+
+- **Frontend:** React, JavaScript, Sass, HTML
+- **Backend:** Node.js, Express.js
 
 ---
 
