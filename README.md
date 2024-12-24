@@ -74,8 +74,8 @@ The platform offers a responsive user experience, mobile-first design, and acces
 ![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white) 
 ![Spanish](https://img.shields.io/badge/Spanish-FF0000?style=for-the-badge&logo=language&logoColor=white) 
 ![Portuguese](https://img.shields.io/badge/Portuguese-3A5EAB?style=for-the-badge&logo=language&logoColor=white) 
-![Japanese](https://img.shields.io/badge/Japanese-BC002D?style=for-the-badge&logo=language&logoColor=white) 
 ![Polish](https://img.shields.io/badge/Polish-D4213D?style=for-the-badge&logo=language&logoColor=white) 
+![Japanese](https://img.shields.io/badge/Japanese-BC002D?style=for-the-badge&logo=language&logoColor=white) 
 ---
 
 ### 📚 Education & Certifications
