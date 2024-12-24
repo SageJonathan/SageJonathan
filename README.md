@@ -38,41 +38,45 @@ The platform offers a responsive user experience, mobile-first design, and acces
 
 ### 🌟 Skills
 
-**Frameworks & Languages**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Knex](https://img.shields.io/badge/Knex.js-1F71FF?style=for-the-badge&logo=knex&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
-**Tools & Methodologies**
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-00ADD8?style=for-the-badge&logo=agile&logoColor=white)
 
+**Databases & ORMs**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-1F71FF?style=for-the-badge&logo=knex&logoColor=white)
+
+**Tools & Methodologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=for-the-badge&logo=agile&logoColor=white)  
 
 **Others**
 
-![English](https://img.shields.io/badge/English-C1A7A7?style=for-the-badge&logo=language&logoColor=white)
-![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white)
-![Spanish](https://img.shields.io/badge/Spanish-FF0000?style=for-the-badge&logo=language&logoColor=white)
-![Portuguese](https://img.shields.io/badge/Portuguese-3A5EAB?style=for-the-badge&logo=language&logoColor=white)
+![English](https://img.shields.io/badge/English-C1A7A7?style=for-the-badge&logo=language&logoColor=white)  
+![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white)  
+![Spanish](https://img.shields.io/badge/Spanish-FF0000?style=for-the-badge&logo=language&logoColor=white)  
+![Portuguese](https://img.shields.io/badge/Portuguese-3A5EAB?style=for-the-badge&logo=language&logoColor=white)  
+![Japanese](https://img.shields.io/badge/Japanese-BC002D?style=for-the-badge&logo=language&logoColor=white)  
+![Polish](https://img.shields.io/badge/Polish-D4213D?style=for-the-badge&logo=language&logoColor=white)  
 ![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-00CC99?style=for-the-badge&logo=team&logoColor=white)
 
 ---
