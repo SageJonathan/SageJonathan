@@ -66,6 +66,7 @@ The platform offers a responsive user experience, mobile-first design, and acces
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
 ![Agile](https://img.shields.io/badge/Agile-00ADD8?style=for-the-badge&logo=agile&logoColor=white)
+---
 
 ### 🌍 Languages
 
