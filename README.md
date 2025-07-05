@@ -9,7 +9,8 @@
 
 ### 👨‍💻 About Me
 
-I'm a full-stack developer, AI consultant, and team lead with a passion for building scalable, user-first software. I specialize in designing, developing, and maintaining custom products for clients—bridging the gap between business goals and technical execution.
+I'm a full-stack developer, AI consultant, and team lead with a passion for building scalable, user-first software.
+ I specialize in designing, developing, and maintaining custom products for clients—bridging the gap between business goals and technical execution.
 
 As a prompt engineer in the AI space, I’ve worked at the forefront of language model integration—architecting intelligent systems that support real users in complex workflows. I bring a sharp eye for UX, strong systems thinking, and hands-on experience shipping production-ready tools across modern web stacks.
 
