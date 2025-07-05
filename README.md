@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Sage! 👋
 
-## 🌐 Website: [sagecodes.tech.net](https://www.sagecodes.tech/)
+## 🌐 Website: [sagecodes.tech](https://www.sagecodes.tech/)
 ## 📧 Email: [dev@sagecodes.tech](mailto:dev@sagecodes.tech)
 ## 💼 LinkedIn: [linkedin.com/in/sagejonathan](https://www.linkedin.com/in/sagejonathan/)
 ## 📸 Instagram: [@wandering_mapachito](https://www.instagram.com/wandering_mapachito/)
