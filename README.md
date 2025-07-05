@@ -13,29 +13,6 @@ I'm a software developer with a passion for building innovative and impactful so
 
 ---
 
-### 🔭 Current Projects
-
-# Art Store
-
-I am currently working on an e-commerce art store site built with Next.js and Prisma/SQL. The project leverages secure APIs and Auth for handling sensitive information, ensuring robust data protection.
-
-The platform offers a responsive user experience, mobile-first design, and accessibility compliance, combining modern e-commerce best practices with scalable and reliable operations.
- 
-## Features
-
-- **Dynamic User Interface:** Mobile-first design for seamless navigation across devices.
-- **Secure Transactions:** Robust API integrations for handling sensitive user data.
-- **OAuth Integration** Simplifies authentication for a seamless and secure user login experience.
-- **Accesibility Compliance:** Ensures usability for a diverse range of users.
-- **Scalable Backend:**  Built with Prisma/SQL to support future growth and reliability.
-
-## Tech Stack
-
-- **Frontend:** Next.js, React, Typescript, Tailwind CSS
-- **Backend:** Node.js, Prisma, SQL          
-
----
-
 ### 🌟 Skills
 
 **Languages**  
