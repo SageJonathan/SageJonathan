@@ -1,120 +1,115 @@
 # Hi there, I'm Jonathan Sage! 👋
 
-## 🌐 Website: [sagecodes.tech](https://www.sagecodes.tech/)
-## 📧 Email: [dev@sagecodes.tech](mailto:dev@sagecodes.tech)
-## 💼 LinkedIn: [linkedin.com/in/sagejonathan](https://www.linkedin.com/in/sagejonathan/)
-## 📸 Instagram: [@wandering_mapachito](https://www.instagram.com/wandering_mapachito/)
+## 🚀 Full-Stack Engineer | 2× Founder | AI Infrastructure Developer
+
+Currently building AI annotation systems at **Meta** while founding **Humanae Corp** (professional networking platform) and running **SageCodes Ltd** (consulting practice serving e-commerce & SaaS clients).
+
+---
+
+### 🔗 Connect
+
+[![Website](https://img.shields.io/badge/Website-sagecodes.tech-blue?style=for-the-badge)](https://www.sagecodes.tech/)
+[![Email](https://img.shields.io/badge/Email-dev@sagecodes.tech-red?style=for-the-badge)](mailto:dev@sagecodes.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagejonathan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagejonathan/)
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a full-stack developer, AI consultant, and team lead with a passion for building scalable, user-first software.
- I specialize in designing, developing, and maintaining custom products for clients—bridging the gap between business goals and technical execution.
+I'm a full-stack engineer specializing in **scalable platforms**, **real-time systems**, and **AI-powered solutions**. I ship complete products from architecture to deployment with proven **15-40% improvements** in performance, conversion, and revenue.
 
-As a prompt engineer in the AI space, I collaborate with teams to design and refine natural language interfaces that make large language models more useful, accurate, and aligned with user needs. I bring a sharp eye for UX, strong systems thinking, and hands-on experience shipping production-ready tools across modern web stacks.
+**Current Work:**
+- 🤖 **Meta (Contract)** - Leading R&D on high-precision labeling frameworks for AI model training
+- 🌐 **Humanae Corp (Founder)** - Building real-time networking platform with smart matching & encrypted messaging
+- 💼 **SageCodes Ltd (Founder)** - Delivering automation, e-commerce, and SaaS solutions for clients
 
-With a background in operations management, alpine climbing, and language instruction, I lead with adaptability, communication, and a bias for action—whether I'm writing code, learning new tools, or navigating high-stakes environments.
+**Recent Projects:**
+- Real-time professional networking platform with queue-based notifications (PGMQ), CRON batch processing, and end-to-end encryption
+- AI-powered avalanche forecasting platform integrating Avalanche Canada's APIs (BrainStation Capstone)
+- Multi-storefront dashboards and client-facing automations reducing deployment errors by 40%
 
 ---
 
-### 🌟 Skills
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+### 🛠️ Tech Stack
 
-**Styling**  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+**Languages & Core**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Frontend Frameworks**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend Frameworks & Runtimes**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)  
-![Oak](https://img.shields.io/badge/Oak-FFA500?style=for-the-badge&logo=oak&logoColor=white)  
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Databases & ORMs**  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Knex.js](https://img.shields.io/badge/Knex.js-1F71FF?style=for-the-badge&logo=knex&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-2E5C8A?style=for-the-badge&logo=drizzle&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**Testing**  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)  
-![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)  
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Deployment and CI/CD**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+**Architecture & Practices**  
+Microservices • Queue Systems • Server-Side Rendering • CI/CD • TDD • Agile
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
-
-**Methodologies**  
-![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)  
-![Component-Based Architecture](https://img.shields.io/badge/Component_Based_Architecture-4285F4?style=for-the-badge&logo=react&logoColor=white)  
-![Test-Driven Development](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=testcafe&logoColor=white)  
-![Agile](https://img.shields.io/badge/Agile-00ADD8?style=for-the-badge&logo=agile&logoColor=white)  
- ---
-
-### 🌍 Language Fluency
-
-![English](https://img.shields.io/badge/English-C1A7A7?style=for-the-badge&logo=language&logoColor=white) 
-![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=language&logoColor=white) 
-![Spanish](https://img.shields.io/badge/Spanish-FF0000?style=for-the-badge&logo=language&logoColor=white) 
-![Portuguese](https://img.shields.io/badge/Portuguese-3A5EAB?style=for-the-badge&logo=language&logoColor=white) 
 ---
 
-### 📚 Education & Certifications
+### 🌍 Languages
 
-**Liberal Arts Degree**
-- Built a strong foundation in critical thinking, communication, and cross-cultural understanding—skills I bring to team collaboration and user-first development.
+![English](https://img.shields.io/badge/English-Native-success?style=flat-square)
+![French](https://img.shields.io/badge/French-Native-success?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Proficient-blue?style=flat-square)
+![Portuguese](https://img.shields.io/badge/Portuguese-Proficient-blue?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-Beginner-lightgrey?style=flat-square)
 
-**BrainStation Diploma**
-- Hands-on training in building full-stack applications with JavaScript, React, Node.js, and Express. Worked in agile teams alongside designers and data scientists to deliver functional, user-focused products.
-
-**Avalanche Profesional Operations**
-- Trained in real-time data analysis and risk assessment in high-stakes environments—experience that informs my approach to debugging, ops, and systems thinking.
 ---
 
-### 🏔️ My Journey
+### 📈 GitHub Stats
 
-From high-altitude mountaineering in the Andes to leading complex software projects, my journey has been shaped by a deep passion for exploration, learning, and problem-solving. Here are a few highlights of my experience:
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-- **Operations Management**  
-  Successfully managed teams at prestigious equestrian venues, demonstrating strong leadership and adaptability in high-pressure, dynamic environments.
-
-- **Alpine Climbing**  
-  Completed challenging ascents in the Peruvian Andes, Canadian Rockies, and other iconic mountain ranges, showcasing resilience, strategy, and commitment.
-
-- **Language Instruction**  
-  Provided freelance language instruction, honing cross-cultural communication skills and achieving fluency in multiple languages, enhancing my ability to connect with diverse audiences.
 ---
 
-### 🪷  Personal Highlights
+### 🎯 What I'm Building
 
-- **Global Experience**: Lived or worked in 8 countries and traveled to 23, gaining a rich understanding of diverse cultures and perspectives.
-- **Community Impact**: Volunteered in community development projects across Latin America, contributing to sustainable and meaningful change.
-- **Passion for Excellence**: Continually pursuing personal growth through alpine climbing, paragliding, poetry, and photography, striving for mastery and creative expression in every endeavor.
+- 🚀 Scaling **Humanae** to product-market fit with weekly iterations
+- 🔧 Expanding **SageCodes** client base with high-impact automation solutions
+- 🧠 Leading AI annotation R&D at Meta across 8+ language teams
+- 📚 Exploring advanced system design patterns and scalable architectures
+
+---
+
+### 🏔️ Beyond Code
+
+From alpine climbing in the Peruvian Andes to paragliding over the Canadian Rockies, I bring the same focus, resilience, and strategic thinking to software development that I do to high-stakes mountain environments.
+
+**Background:**
+- 🌍 Lived/worked in 8 countries, traveled to 23
+- 🏔️ Alpine climber with ascents in the Andes, Rockies, and beyond
+- 🪂 Paraglider and adventure photographer
+- 📖 Former language instructor (4 languages fluent)
 
 ---
 
 ### 💬 Let's Connect
 
-I'm always eager to connect with like-minded individuals and explore new opportunities. Whether it's discussing tech, alpine climbing, paragliding, languages, or potential collaborative projects, feel free to reach out—let’s create something great together!
+Always open to discussing:
+- Remote JavaScript/TypeScript opportunities (20-30 hrs/week available)
+- Contract development work (React, Next.js, Node.js)
+- Startup collaboration and technical advisory roles
+- Alpine climbing, paragliding, languages, or travel
 
+📧 **Email:** dev@sagecodes.tech  
+🔗 **LinkedIn:** [linkedin.com/in/sagejonathan](https://www.linkedin.com/in/sagejonathan/)
 
