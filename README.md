@@ -16,7 +16,7 @@ Currently building AI annotation systems at **Meta** while founding **Humanae Co
 
 ### 👨‍💻 About Me
 
-I'm a full-stack engineer specializing in **scalable platforms**, **real-time systems**, and **AI-powered solutions**. I ship complete products from architecture to deployment with proven **15-40% improvements** in performance, conversion, and revenue.
+I'm a full-stack engineer specializing in **scalable platforms**, **real-time systems**, and **AI-powered solutions**. I ship complete products from architecture to deployment with proven improvements in performance, conversion, and revenue.
 
 **Current Work:**
 - 🤖 **Meta (Contract)** - Leading R&D on high-precision labeling frameworks for AI model training
@@ -24,13 +24,12 @@ I'm a full-stack engineer specializing in **scalable platforms**, **real-time sy
 - 💼 **SageCodes Ltd (Founder)** - Delivering automation, e-commerce, and SaaS solutions for clients
 
 **Recent Projects:**
-- Real-time professional networking platform with queue-based notifications (PGMQ), CRON batch processing, and end-to-end encryption
-- AI-powered avalanche forecasting platform integrating Avalanche Canada's APIs (BrainStation Capstone)
-- Multi-storefront dashboards and client-facing automations reducing deployment errors by 40%
+- Real-time professional networking platform with queue-based notifications (PGMQ), 
+  CRON batch processing, and end-to-end encryption
+- AI-powered avalanche forecasting platform integrating Avalanche Canada's APIs
+- Multi-storefront dashboards and client-facing automations 
 
 ---
-
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
