@@ -99,7 +99,7 @@ Microservices • Queue Systems • Server-Side Rendering • CI/CD • TDD • 
 ### 🎯 What I'm Building
 
 - 🚀 Scaling **Humanae** to product-market fit with weekly iterations
-- 🏔️ Building **AvAi** for avalanche forecasting with real-time API integrations, AI agents for multi-database analysis, and 3D terrain modeling
+- 🏔️ Building **AvAi** for avalanche forecasting with real-time APIs, AI agentsfor multi DB analysis and 3D modeling
 - 🔧 Expanding **SageCodes** client base with high-impact automation solutions
 - 🧠 Leading AI annotation R&D at Meta across 8+ language teams (100+ workers)
 - 📚 Exploring advanced system design patterns and scalable architectures
