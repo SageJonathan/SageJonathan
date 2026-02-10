@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Engineer | 2× Founder | AI Infrastructure Developer
 
-Currently building AI annotation systems at **Meta** while founding **Humanae Corp** (professional networking platform) and running **SageCodes Ltd** (consulting practice serving e-commerce & SaaS clients).
+Currently building AI annotation systems at **Meta** while founding **Humanae Co** (professional networking platform) and running **SageCodes Ltd** (consulting practice serving e-commerce & SaaS clients).
 
 ---
 
