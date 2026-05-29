@@ -120,9 +120,7 @@ From alpine climbing in the Peruvian Andes to paragliding over the Canadian Rock
 
 ### 💬 Let's Connect
 
-Always open to discussing:
-- Remote JavaScript/TypeScript opportunities (20-30 hrs/week available)
-- Contract development work (React, Next.js, Node.js)
+- Contract development work
 - Startup collaboration and technical advisory roles
 - Alpine climbing, paragliding, languages, or travel
 
